@@ -14,7 +14,7 @@ define Package/luci-app-adguardhome
 	SECTION:=luci
 	CATEGORY:=LuCI
 	SUBMENU:=3. Applications
-	TITLE:=LuCI support for AdGuard Home [Modified by Hyy2001]
+	TITLE:=LuCI support for AdGuard Home [xnxy2012]
 	PKGARCH:=all
 	DEPENDS:=+!wget-ssl&&!curl:wget-ssl +xz-utils +xz
 endef
